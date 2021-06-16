@@ -1,6 +1,6 @@
 {
   "name": "@thevsstech/react-slots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vue-like slots package to be used in your react project",
   "author": "thevsstech",
   "license": "MIT",
